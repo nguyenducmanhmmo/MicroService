@@ -1,0 +1,17 @@
+C:\Users\Dell\source\repos\OrderApi\OrderApi.Service\bin\Debug\net6.0\OrderApi.Service.deps.json
+C:\Users\Dell\source\repos\OrderApi\OrderApi.Service\bin\Debug\net6.0\OrderApi.Service.dll
+C:\Users\Dell\source\repos\OrderApi\OrderApi.Service\bin\Debug\net6.0\ref\OrderApi.Service.dll
+C:\Users\Dell\source\repos\OrderApi\OrderApi.Service\bin\Debug\net6.0\OrderApi.Service.pdb
+C:\Users\Dell\source\repos\OrderApi\OrderApi.Service\bin\Debug\net6.0\OrderApi.Data.dll
+C:\Users\Dell\source\repos\OrderApi\OrderApi.Service\bin\Debug\net6.0\OrderApi.Domain.dll
+C:\Users\Dell\source\repos\OrderApi\OrderApi.Service\bin\Debug\net6.0\OrderApi.Data.pdb
+C:\Users\Dell\source\repos\OrderApi\OrderApi.Service\bin\Debug\net6.0\OrderApi.Domain.pdb
+C:\Users\Dell\source\repos\OrderApi\OrderApi.Service\obj\Debug\net6.0\OrderApi.Service.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\OrderApi\OrderApi.Service\obj\Debug\net6.0\OrderApi.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\OrderApi\OrderApi.Service\obj\Debug\net6.0\OrderApi.Service.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\OrderApi\OrderApi.Service\obj\Debug\net6.0\OrderApi.Service.AssemblyInfo.cs
+C:\Users\Dell\source\repos\OrderApi\OrderApi.Service\obj\Debug\net6.0\OrderApi.Service.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\OrderApi\OrderApi.Service\obj\Debug\net6.0\OrderApi.Service.csproj.CopyComplete
+C:\Users\Dell\source\repos\OrderApi\OrderApi.Service\obj\Debug\net6.0\OrderApi.Service.dll
+C:\Users\Dell\source\repos\OrderApi\OrderApi.Service\obj\Debug\net6.0\ref\OrderApi.Service.dll
+C:\Users\Dell\source\repos\OrderApi\OrderApi.Service\obj\Debug\net6.0\OrderApi.Service.pdb

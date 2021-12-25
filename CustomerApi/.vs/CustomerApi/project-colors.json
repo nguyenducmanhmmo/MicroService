@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a396f343-ba8f-4d42-8063-a34c238bec3c": {
+      "ProjectGuid": "a396f343-ba8f-4d42-8063-a34c238bec3c",
+      "DisplayName": "CustomerApi.Domain",
+      "ColorIndex": 0
+    },
+    "a84d86b7-143f-4aa1-b205-61f128734889": {
+      "ProjectGuid": "a84d86b7-143f-4aa1-b205-61f128734889",
+      "DisplayName": "CustomerApi.Data",
+      "ColorIndex": 1
+    },
+    "80d1a5f4-2fc1-416a-bc10-06ba810ab663": {
+      "ProjectGuid": "80d1a5f4-2fc1-416a-bc10-06ba810ab663",
+      "DisplayName": "CustomerApi.Service",
+      "ColorIndex": 2
+    },
+    "94342d3c-5a72-4ef3-9cfe-3619ec551d38": {
+      "ProjectGuid": "94342d3c-5a72-4ef3-9cfe-3619ec551d38",
+      "DisplayName": "CustomerApi.Messaging.Send",
+      "ColorIndex": 3
+    },
+    "7b3a8b53-55fb-4f22-a697-48b83aef76ce": {
+      "ProjectGuid": "7b3a8b53-55fb-4f22-a697-48b83aef76ce",
+      "DisplayName": "CustomerApi",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

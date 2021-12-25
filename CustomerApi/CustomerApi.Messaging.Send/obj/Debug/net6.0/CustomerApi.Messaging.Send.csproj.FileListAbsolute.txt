@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\Solution1\CustomerApi.Messaging.Send\bin\Debug\net6.0\CustomerApi.Messaging.Send.deps.json
+C:\Users\Dell\source\repos\Solution1\CustomerApi.Messaging.Send\bin\Debug\net6.0\CustomerApi.Messaging.Send.dll
+C:\Users\Dell\source\repos\Solution1\CustomerApi.Messaging.Send\bin\Debug\net6.0\ref\CustomerApi.Messaging.Send.dll
+C:\Users\Dell\source\repos\Solution1\CustomerApi.Messaging.Send\bin\Debug\net6.0\CustomerApi.Messaging.Send.pdb
+C:\Users\Dell\source\repos\Solution1\CustomerApi.Messaging.Send\bin\Debug\net6.0\CustomerApi.Data.dll
+C:\Users\Dell\source\repos\Solution1\CustomerApi.Messaging.Send\bin\Debug\net6.0\CustomerApi.Data.pdb
+C:\Users\Dell\source\repos\Solution1\CustomerApi.Messaging.Send\obj\Debug\net6.0\CustomerApi.Messaging.Send.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Solution1\CustomerApi.Messaging.Send\obj\Debug\net6.0\CustomerApi.Messaging.Send.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\Solution1\CustomerApi.Messaging.Send\obj\Debug\net6.0\CustomerApi.Messaging.Send.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Solution1\CustomerApi.Messaging.Send\obj\Debug\net6.0\CustomerApi.Messaging.Send.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Solution1\CustomerApi.Messaging.Send\obj\Debug\net6.0\CustomerApi.Messaging.Send.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Solution1\CustomerApi.Messaging.Send\obj\Debug\net6.0\CustomerApi.Messaging.Send.csproj.CopyComplete
+C:\Users\Dell\source\repos\Solution1\CustomerApi.Messaging.Send\obj\Debug\net6.0\CustomerApi.Messaging.Send.dll
+C:\Users\Dell\source\repos\Solution1\CustomerApi.Messaging.Send\obj\Debug\net6.0\ref\CustomerApi.Messaging.Send.dll
+C:\Users\Dell\source\repos\Solution1\CustomerApi.Messaging.Send\obj\Debug\net6.0\CustomerApi.Messaging.Send.pdb

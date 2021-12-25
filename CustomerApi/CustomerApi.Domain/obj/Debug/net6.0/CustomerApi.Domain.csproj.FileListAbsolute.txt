@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\Solution1\CustomerApi.Domain\bin\Debug\net6.0\CustomerApi.Domain.deps.json
+C:\Users\Dell\source\repos\Solution1\CustomerApi.Domain\bin\Debug\net6.0\CustomerApi.Domain.dll
+C:\Users\Dell\source\repos\Solution1\CustomerApi.Domain\bin\Debug\net6.0\ref\CustomerApi.Domain.dll
+C:\Users\Dell\source\repos\Solution1\CustomerApi.Domain\bin\Debug\net6.0\CustomerApi.Domain.pdb
+C:\Users\Dell\source\repos\Solution1\CustomerApi.Domain\bin\Debug\net6.0\CustomerApi.Data.dll
+C:\Users\Dell\source\repos\Solution1\CustomerApi.Domain\bin\Debug\net6.0\CustomerApi.Data.pdb
+C:\Users\Dell\source\repos\Solution1\CustomerApi.Domain\obj\Debug\net6.0\CustomerApi.Domain.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Solution1\CustomerApi.Domain\obj\Debug\net6.0\CustomerApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\Solution1\CustomerApi.Domain\obj\Debug\net6.0\CustomerApi.Domain.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Solution1\CustomerApi.Domain\obj\Debug\net6.0\CustomerApi.Domain.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Solution1\CustomerApi.Domain\obj\Debug\net6.0\CustomerApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Solution1\CustomerApi.Domain\obj\Debug\net6.0\CustomerApi.Domain.csproj.CopyComplete
+C:\Users\Dell\source\repos\Solution1\CustomerApi.Domain\obj\Debug\net6.0\CustomerApi.Domain.dll
+C:\Users\Dell\source\repos\Solution1\CustomerApi.Domain\obj\Debug\net6.0\ref\CustomerApi.Domain.dll
+C:\Users\Dell\source\repos\Solution1\CustomerApi.Domain\obj\Debug\net6.0\CustomerApi.Domain.pdb
