@@ -8,7 +8,7 @@ trigger:
       - OrderApi/*
  
 pool:
-  vmImage: 'default'
+  name: default
  
 variables:
   buildConfiguration: 'Release'
