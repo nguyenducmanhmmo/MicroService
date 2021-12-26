@@ -13,3 +13,16 @@ PrimeNumber/PrimeNumber/obj/Debug/net6.0/PrimeNumber.assets.cache
 PrimeNumber/PrimeNumber/obj/Debug/net6.0/PrimeNumber.csproj.AssemblyReference.cache
 PrimeNumber/PrimeNumber/obj/Debug/net6.0/PrimeNumber.GeneratedMSBuildEditorConfig.editorconfig
 PrimeNumber/PrimeNumber/obj/Debug/net6.0/PrimeNumber.GlobalUsings.g.cs
+CustomerApi/.vs/CustomerApi/v16/.suo
+CustomerApi/CustomerApi.Database.Build/CustomerApi.Database.Build.csproj
+CustomerApi/CustomerApi.Database.Build/obj/CustomerApi.Database.Build.csproj.nuget.dgspec.json
+CustomerApi/CustomerApi.Database.Build/obj/CustomerApi.Database.Build.csproj.nuget.g.props
+CustomerApi/CustomerApi.Database.Build/obj/CustomerApi.Database.Build.csproj.nuget.g.targets
+CustomerApi/CustomerApi.Database.Build/obj/project.assets.json
+CustomerApi/CustomerApi.Database.Build/obj/project.nuget.cache
+CustomerApi/CustomerApi.Database.Build/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+CustomerApi/CustomerApi.Database.Build/obj/Debug/netcoreapp3.1/CustomerApi.Database.Build.AssemblyInfo.cs
+CustomerApi/CustomerApi.Database.Build/obj/Debug/netcoreapp3.1/CustomerApi.Database.Build.AssemblyInfoInputs.cache
+CustomerApi/CustomerApi.Database.Build/obj/Debug/netcoreapp3.1/CustomerApi.Database.Build.assets.cache
+CustomerApi/CustomerApi.Database.Build/obj/Debug/netcoreapp3.1/CustomerApi.Database.Build.csproj.AssemblyReference.cache
+CustomerApi/CustomerApi.Database.Build/obj/Debug/netcoreapp3.1/CustomerApi.Database.Build.GeneratedMSBuildEditorConfig.editorconfig
