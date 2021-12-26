@@ -7,8 +7,7 @@ trigger:
     include:
       - CustomerApi/*
  
-pool:
-  vmImage: 'ubuntu-latest'
+pool: DESKTOP-7CC6SGE
  
 variables:
   buildConfiguration: 'Release'
