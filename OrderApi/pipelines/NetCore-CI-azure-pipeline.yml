@@ -38,7 +38,7 @@ steps:
   inputs:
     command: 'publish'
     publishWebProjects: false
-    projects: '**/Order.csproj'
+    projects: '**/OrderApi.csproj'
     arguments: '--configuration $(buildConfiguration) --no-restore'
     modifyOutputPath: false
   displayName: 'Publish OrderApi'
