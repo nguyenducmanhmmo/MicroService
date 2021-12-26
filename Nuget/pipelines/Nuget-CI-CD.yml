@@ -1,0 +1,59 @@
+name : Nuget-CI-CD
+trigger:
+  branches:
+    include:
+      - master
+  paths:
+    include:
+    - Nuget/*
+    exclude:
+    - Nuget/**/*.Test
+
+pool:
+  name: default
+
+variables:
+  BuildConfiguration: Release
+  ArtifactNugetName: 'packages-nuget'  
+
+stages:
+- stage: build
+  displayName: 'Build Nuget Package'
+  jobs:
+  - job: CI_Build
+    displayName: 'Nuget - Build, Pack and Test'    
+    steps:
+    - task: gitversion/setup@0
+      displayName: Install GitVersion
+      inputs:
+        versionSpec: '5.5.0'
+        
+    - task: gitversion/execute@0
+      displayName: Determine Version
+  
+    - task: DotNetCoreCLI@2
+      displayName: 'Restore packages'
+      inputs:
+        command: 'restore'
+        projects: 'Nuget/**/*.csproj'
+        feedsToUse: 'select'
+
+    - task: DotNetCoreCLI@2
+      displayName: 'Build solution'
+      inputs:
+        command: 'build'
+        projects: 'Nuget/**/*.csproj'
+        arguments: '-c $(BuildConfiguration) --no-restore'
+    - task: DotNetCoreCLI@2
+      displayName: 'Create nuget packages'
+      inputs:
+        command: 'pack'
+        packagesToPack: 'Nuget/**/*.csproj;!**/*.Test.csproj'
+        packDirectory: '$(Build.ArtifactStagingDirectory)/packages/nuget'
+        nobuild: true
+        versioningScheme: 'byBuildNumber'
+
+    - publish: '$(Build.ArtifactStagingDirectory)/packages/nuget'
+      displayName: 'Publish Artifact: $(ArtifactNugetName)'
+      artifact: 'packages-nuget'
+      condition: and(succeeded(), ne(variables['Build.Reason'], 'PullRequest'))
