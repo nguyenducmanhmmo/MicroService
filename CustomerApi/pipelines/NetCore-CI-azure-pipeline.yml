@@ -8,7 +8,7 @@ trigger:
       - CustomerApi/*
  
 pool: 
-   name: DESKTOP-7CC6SGE
+   name: default
  
 variables:
   buildConfiguration: 'Release'
