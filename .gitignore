@@ -1,2 +1,15 @@
 OrderApi/OrderApi.Domain/obj/Debug/net6.0/OrderApi.Domain.csproj.AssemblyReference.cache
 CustomerApi/CustomerApi/obj/Container/ContainerCreationResult.cache
+PrimeNumber/.vs/Nuget/v17/.suo
+PrimeNumber/PrimeNumber/obj/PrimeNumber.csproj.nuget.dgspec.json
+PrimeNumber/PrimeNumber/obj/PrimeNumber.csproj.nuget.g.props
+PrimeNumber/PrimeNumber/obj/PrimeNumber.csproj.nuget.g.targets
+PrimeNumber/PrimeNumber/obj/project.assets.json
+PrimeNumber/PrimeNumber/obj/project.nuget.cache
+PrimeNumber/PrimeNumber/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+PrimeNumber/PrimeNumber/obj/Debug/net6.0/PrimeNumber.AssemblyInfo.cs
+PrimeNumber/PrimeNumber/obj/Debug/net6.0/PrimeNumber.AssemblyInfoInputs.cache
+PrimeNumber/PrimeNumber/obj/Debug/net6.0/PrimeNumber.assets.cache
+PrimeNumber/PrimeNumber/obj/Debug/net6.0/PrimeNumber.csproj.AssemblyReference.cache
+PrimeNumber/PrimeNumber/obj/Debug/net6.0/PrimeNumber.GeneratedMSBuildEditorConfig.editorconfig
+PrimeNumber/PrimeNumber/obj/Debug/net6.0/PrimeNumber.GlobalUsings.g.cs

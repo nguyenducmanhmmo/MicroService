@@ -1,0 +1,32 @@
+﻿name : Nuget-CI-CD
+trigger:
+  branches:
+    include:
+      - master
+  paths:
+    include:
+    - Nuget/*
+    exclude:
+    - Nuget/**/*.Test
+
+pool:
+  name: default
+
+variables:
+  BuildConfiguration: Release
+  ArtifactNugetName: 'packages-nuget'  
+
+stages:
+- stage: build
+  displayName: 'Build NuGet Package'
+  jobs:
+  - job: CI_Build
+    displayName: 'NuGet - Build, Pack and Test'    
+    steps:
+    - task: gitversion/setup@0
+      displayName: Install GitVersion
+      inputs:
+        versionSpec: '5.5.0'
+        
+    - task: gitversion/execute@0
+      displayName: Determine Version
