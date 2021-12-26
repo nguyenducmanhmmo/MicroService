@@ -7,7 +7,8 @@ trigger:
     include:
       - CustomerApi/*
  
-pool: DESKTOP-7CC6SGE
+pool: 
+   name: DESKTOP-7CC6SGE
  
 variables:
   buildConfiguration: 'Release'
