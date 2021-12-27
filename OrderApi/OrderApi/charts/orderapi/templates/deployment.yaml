@@ -27,6 +27,11 @@ spec:
       serviceAccountName: {{ include "orderapi.serviceAccountName" . }}
       securityContext:
         {{- toYaml .Values.podSecurityContext | nindent 8 }}
+      env:
+        {{ range $k, $v := .Values.env }}
+          - name: {{ $k | quote }}
+            value: {{ $v | quote }}
+        {{- end }}
       containers:
         - name: {{ .Chart.Name }}
           securityContext:

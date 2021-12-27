@@ -45,6 +45,11 @@ spec:
             httpGet:
               path: /
               port: http
+          env:
+            {{ range $k, $v := .Values.env }}
+              - name: {{ $k | quote }}
+                value: {{ $v | quote }}
+            {{- end }}
           resources:
             {{- toYaml .Values.resources | nindent 12 }}
       {{- with .Values.nodeSelector }}

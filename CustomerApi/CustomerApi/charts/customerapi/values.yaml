@@ -8,7 +8,7 @@ image:
   repository: manhnd23/customerapi
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: ""
+  tag: latest
 
 imagePullSecrets: []
 nameOverride: ""
@@ -37,7 +37,7 @@ securityContext: {}
   # runAsUser: 1000
 
 service:
-  type: LoadBalancer
+  type: ClusterIP
   port: 80
 
 ingress:
@@ -80,3 +80,10 @@ nodeSelector: {}
 tolerations: []
 
 affinity: {}
+
+env: 
+    "ASPNETCORE_ENVIRONMENT": "Development"
+    "ASPNETCORE_URLS": "https://+:443;http://+:80"
+    "ASPNETCORE_HTTPS_PORT": "8001"
+    "ASPNETCORE_Kestrel__Certificates__Default__Password": "password"
+    "ASPNETCORE_Kestrel__Certificates__Default__Path": "/https/aspnetapp.pfx"
